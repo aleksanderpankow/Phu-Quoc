@@ -1,7 +1,7 @@
 
 # Phu Quoc Travel App
 
-Simple client-server weather iOS application.
+Simple client-server travel iOS application.
 
 ![](https://img.shields.io/badge/status-IN%20PROGRESS-blue.svg)
 
